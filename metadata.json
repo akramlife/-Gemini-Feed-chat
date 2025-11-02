@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Feed Chat",
+  "description": "A modern, minimalist chat feed reader powered by Google Gemini and the CommaFeed API. Interact with your news feeds through a conversational interface.",
+  "requestFramePermissions": []
+}
